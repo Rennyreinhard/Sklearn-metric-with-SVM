@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import itertools
+from sklearn_metrics  import svm,datasets
+from sklearn import classification_reports
+plt.style.use('Seaborn poster')
+%matplotlob inline
+iris=dataset.load_iris
+print(iris.features_name)
+print(iris(:10)
+print ('We have %d samples with %/d features (iris.features_names[0],iris.features_name[1])
